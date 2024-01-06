@@ -9,7 +9,7 @@ This project utilises formulas and advanced excel tools to ensure data integrity
 
 ## Dataset Information
 
-- The dataset used in this project is [Raw Data] and is provided in this repository. It consists of [Shipping information for products alongside sales related data]. 
+- The dataset used in this project is [Raw Data_super store] and is provided in this repository. It consists of [Shipping information for products alongside sales related data]. 
 - The dataset contained data quality concerns such as blank cells, outliers, improper casing, wrong spellings, etc.
 - The dataset contained date values entered as text and numbers formats in all date columns present.
 
